@@ -1,0 +1,7 @@
+packages:
+  # todos os pacotes em subdiretórios diretos de packages/
+  - 'packages/*'
+  # todos os pacotes em subdiretórios de components/
+  - 'components/**'
+  # exclui pacotes que estão dentro dos diretórios de teste
+  - '!* */teste/**'

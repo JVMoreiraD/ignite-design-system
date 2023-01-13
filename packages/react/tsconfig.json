@@ -1,0 +1,6 @@
+{
+    "extends": "@jvmoreirad-ignite-ui/ts-config/react.json",
+    "include": [
+        "src"
+    ]
+}
