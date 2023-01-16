@@ -2,7 +2,7 @@ import { StoryObj, Meta } from '@storybook/react'
 import { Button, ButtonProps } from '@jvmoreirad-ignite-ui/react'
 import { ArrowRight } from 'phosphor-react'
 export default {
-  title: 'Form/Button',
+  title: 'Forms/Button',
   component: Button,
 
   args: {
