@@ -1,0 +1,2 @@
+import{A as t}from"./index.849ba30e.js";import"./index.523cba26.js";import"./iframe.4593d475.js";import"./index.a5e85fe7.js";import"./jsx-runtime.d499903a.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/JVMoreiraD.png",alt:"Jo\xE3o Vitor Moreira"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.1832b3fa.js.map
