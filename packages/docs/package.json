@@ -29,6 +29,8 @@
     "@jvmoreirad-ignite-ui/react": "*",
     "@jvmoreirad-ignite-ui/tokens": "*",
     "@jvmoreirad-ignite-ui/ts-config": "*",
+    "@storybook/addon-a11y": "^6.5.15",
+    "@storybook/storybook-deployer": "^2.8.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

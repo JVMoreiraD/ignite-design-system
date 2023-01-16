@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/JVMoreiraD.png',
     alt: 'João Vitor Moreira',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
